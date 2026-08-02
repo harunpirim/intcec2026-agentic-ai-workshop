@@ -1,7 +1,7 @@
 # Agentic AI as a System for Engineering Research
 ## Hands-On Handout — INTCEC 2026, Chicago
 
-**Notebook:** `bit.ly/intcec26-agents` *(← replace with your real Colab link before printing)*
+**Notebook:** [Open in Colab](https://colab.research.google.com/github/harunpirim/intcec2026-agentic-ai-workshop/blob/main/open-source-version/INTCEC2026_agentic_ai_workshop.ipynb)  ·  repo: https://github.com/harunpirim/intcec2026-agentic-ai-workshop
 **Requirements:** a laptop with any browser, a Google account, and a free API key (below). Nothing is installed on your machine.
 
 ---

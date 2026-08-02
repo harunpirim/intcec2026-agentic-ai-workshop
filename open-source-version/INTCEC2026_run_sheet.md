@@ -2,7 +2,7 @@
 ## "Agentic AI as a System for Engineering Research" · 60 minutes
 
 ### Two weeks before
-- [ ] Upload notebook to GitHub or Drive; create the Colab share link; make the short link (bit.ly or tinyurl); **update slide 11 and the handout** with the real link.
+- [ ] Notebook is on GitHub (https://github.com/harunpirim/intcec2026-agentic-ai-workshop) and the Colab link is baked into slide 11, the handout, and the email. Optional: make a short link (bit.ly) for easier typing from the projector.
 - [ ] Do a full dry run in a fresh Colab with a fresh Gemini key — time each part.
 - [ ] Send the pre-workshop email to registrants (see `INTCEC2026_preworkshop_email.md`).
 - [ ] Ask the organizers: projector aspect ratio, Wi-Fi reliability, room layout, whether you can recruit 1–2 helpers.

@@ -10,7 +10,7 @@ Thank you for registering for **"Agentic AI as a System for Engineering Research
 Go to https://aistudio.google.com/apikey, sign in with any Google account, click "Create API key," and save the key somewhere you can copy from during the session. (Backup option, also free: https://console.groq.com/keys.)
 
 **2. Open the workshop notebook:**
-bit.ly/intcec26-agents *(← replace with real link)* — choose *File → Save a copy in Drive*. No installation is needed; everything runs in Google Colab in your browser.
+https://colab.research.google.com/github/harunpirim/intcec2026-agentic-ai-workshop/blob/main/open-source-version/INTCEC2026_agentic_ai_workshop.ipynb — choose *File → Save a copy in Drive*. No installation is needed; everything runs in Google Colab in your browser.
 
 **3. Optional but recommended:** run the first cell (package install) once before the session, and bring a research topic you'd like a mini literature review on — you'll point an agent at it.
 
