@@ -1,0 +1,7 @@
+*.pdf
+*.tmp
+.~lock*
+node_modules/
+slide-*.jpg
+qa*.jpg
+cs-*.jpg
