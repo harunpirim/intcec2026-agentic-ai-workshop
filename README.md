@@ -1,6 +1,6 @@
 # INTCEC 2026 Workshop — Agentic AI as a System for Engineering Research
 
-Two complete, parallel versions of the same 60-minute workshop (20 min intro + 40 min hands-on). Same concepts, same three-stage pipeline (literature → data analysis → drafting), different hands-on stack.
+Three versions of the same 60-minute workshop (20 min intro + 40 min hands-on). The first two share a three-stage pipeline (literature → data analysis → drafting) with different hands-on stacks. The third is a research sprint on a prepared repository: one bounded experiment, directed by the participant, signed at the end.
 
 ## `open-source-version/`
 Hands-on in **Google Colab + smolagents** with a free Gemini or Groq API key.
@@ -18,7 +18,16 @@ Hands-on in **Claude Cowork** (desktop app; Claude Code works too).
 - Requires: Claude desktop app + any paid Claude plan (Pro+); pairing is the fallback
 - Files: slides (pptx), handout with copy-paste prompts, run sheet, pre-workshop email
 
-## Choosing (or hedging)
-Run open-source if you want zero cost-of-entry for attendees; run Cowork if you want the fastest setup and tangible file deliverables. The run sheets cross-reference each other as fallbacks — you can bring both and decide per-attendee.
+## `protein-function-version/`
+Hands-on as a **research sprint** in the participant's own coding-agent harness (Claude Code, Codex, or pi).
 
-Before the conference (either version): do a full dry run ~2 weeks out and again the day before; the Colab link is baked in; re-verify it opens after any repo rename.
+- A reviewer's point about a protein-function prediction model, stated hypothetically: class imbalance handling is missing. The participant applies one change, balanced class weights, names the deciding metric before running, and signs the result or declines to.
+- Two skills frame the sprint: `own-it` interviews the participant into a twenty-line `PLAN.md` before anything runs; `sign-it` puts at most ten claims, decisions, and contradictions in front of them at the end. The agent never commits; the participant does.
+- Requires: laptop with `git`, `uv`, and one harness signed in; pairing is the fallback
+- Files: slides (Markdown), handout, the two skills
+- The prepared repository participants clone is separate: **[go-imbalance-sprint](https://github.com/yusuf8834/go-imbalance-sprint)**. An agent opened inside it sees only the sprint, never this repository.
+
+## Choosing
+Run open-source for zero cost of entry; Cowork for the fastest setup and tangible file deliverables; the research sprint for a room that already uses coding agents and wants to practice owning the result. The first two run sheets cross-reference each other as fallbacks.
+
+Before the conference (any version): do a full dry run ~2 weeks out and again the day before. For the open-source version, re-verify the Colab link opens after any repo rename. For the sprint, run it yourself from a fresh clone first.
